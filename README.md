@@ -1,2 +1,2 @@
 # grade-planner
-Calculates your grades for you to see your final mark!
+Command-line tool that shows your course grade and what you need on the final.

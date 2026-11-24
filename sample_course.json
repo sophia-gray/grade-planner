@@ -1,0 +1,9 @@
+{
+  "name": "Sample Course 101",
+  "assessments": [
+    {"name": "Assignments", "weight": 20, "score": 88},
+    {"name": "Quizzes", "weight": 10, "score": 76},
+    {"name": "Midterm", "weight": 30, "score": 71},
+    {"name": "Final Exam", "weight": 40, "score": null}
+  ]
+}
